@@ -1,0 +1,37 @@
+_repo: The-F-te-At-Coqueville1907_23222
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Meyer, L. G.
+    gutenberg_agent_id: '25763'
+    url: http://www.gutenberg.org/2009/agents/25763
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Zola, Émile
+    alias: Zola, Émile Édouard Charles Antoine
+    birthdate: 1840
+    deathdate: 1902
+    gutenberg_agent_id: '528'
+    url: http://www.gutenberg.org/2009/agents/528
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/%C3%89mile_Zola
+    - http://en.wikipedia.org/wiki/Émile_Zola
+description: ''
+gutenberg_issued: '2007-10-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23222'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PQ'
+title: 'The Fête At Coqueville
+
+  1907'
+url: http://www.gutenberg.org/ebooks/23222
