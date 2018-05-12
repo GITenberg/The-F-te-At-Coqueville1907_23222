@@ -20,6 +20,8 @@ creator:
     - http://fr.wikipedia.org/wiki/%C3%89mile_Zola
     - http://en.wikipedia.org/wiki/Émile_Zola
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23222#The-F-te-At-Coqueville1907
 gutenberg_issued: '2007-10-27'
 gutenberg_type: Text
 identifiers:
